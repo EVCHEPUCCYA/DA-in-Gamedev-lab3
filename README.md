@@ -143,8 +143,7 @@ behaviors:
 ![2023-06-01_19-37-36](https://github.com/EVCHEPUCCYA/DA-in-Gamedev-lab3/assets/113372135/c18aa01e-425c-4e8c-9a7a-be198aa4e296)
 ![2023-06-01_19-39-21](https://github.com/EVCHEPUCCYA/DA-in-Gamedev-lab3/assets/113372135/54c2ff9f-f973-4f73-b77a-82c6df3cb94c)
 ![2023-06-01_19-39-54](https://github.com/EVCHEPUCCYA/DA-in-Gamedev-lab3/assets/113372135/12f12e11-a391-450d-916b-075164752704)
-![2023-06-01_19-39-54](https://github.com/EVCHEPUCCYA/DA-in-Gamedev-lab3/assets/113372135/2ed85b5e-b508-4a7e-89bb-35489bb3d815)
-
+![2023-06-01_19-40-30](https://github.com/EVCHEPUCCYA/DA-in-Gamedev-lab3/assets/113372135/d74c9c7e-01d1-4d89-83c3-8005537240b3)
 
 ## Задание 2
 ### Подробно опишите каждую строку файла конфигурации нейронной сети. Самостоятельно найдите информацию о компонентах Decision Requester, Behavior Parameters, добавленных на сфере.
